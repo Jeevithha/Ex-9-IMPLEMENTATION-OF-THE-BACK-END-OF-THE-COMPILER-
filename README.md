@@ -1,17 +1,17 @@
 # Ex-9-IMPLEMENTATION OF THE BACK END OF THE COMPILER
-# NAME: JEEVITHA S
-# REGISTER NUMBER: 212222100016
-# Date :03.04.2024
-# Aim :
+## NAME: JEEVITHA S
+## REGISTER NUMBER: 212222100016
+## Date :03.04.2024
+## Aim :
 To write a program to implement the back end of the compiler.
-# ALGORITHM
+## ALGORITHM
 1. Start the program.
 2. Get the three variables from statements and stored in the text file k.txt.
 3. Compile the program and give the path of the source file.
 4. Execute the program.
 5. Target code for the given statement is produced.
 6. Stop the program.
-# PROGRAM
+## PROGRAM
 Program: program.c file
 ```
 #include <stdio.h>
@@ -57,8 +57,8 @@ int main() {
 }
 ```
 
-# OUTPUT
+## OUTPUT
 <img width="781" alt="image" src="https://github.com/manomadhivanan/Ex-9-IMPLEMENTATION-OF-THE-BACK-END-OF-THE-COMPILER-/assets/115543366/530df6d7-251b-4d7c-bcdc-446bf898a824">
 
-# Result
+## Result
 The back end of the compiler is implemented successfully, and the output is verified.
